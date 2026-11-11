@@ -46,6 +46,7 @@ Variables are split in two blocks:
 | `results/` | Intermediate tables written by the notebook. |
 | `figures/` | Charts numbered by phase: `01_eda_…`, `02_pca_…`, `03_hclust_…`, `04_kmeans_…`, `05_bootstrap_…`, `06_types_…`, `07_test_…`, `08_superhost_…`, `09_time_…`. |
 | `requirements.txt` | Package versions. |
+| `presentation.pdf` | The slides presenting the results. |
 
 ### Steps
 
